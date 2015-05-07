@@ -12,7 +12,8 @@ document.write("hoy es" + Date());
 <head>
 <title> Hola Mundo </title>
  </head>
- <body>  
+ <body>
+ <h1>ESTO ES UN CAMBIO</h1>
 <BODY BGCOLOR="blue">
 <H1 align="center"><FONT color="black">Escuela Politecnica Nacional</FONT> </H1><p align="center"> <font size=6 >Marcelo Prado </font> <br/> 
  <A HREF="http://es.wikipedia.org/wiki/Escuela_Polit%C3%A9cnica_Nacional" target="destino"><FONT color="black"><FONT color="white">Mostrar Informacion E.P.N</FONT></A><br/> <br/> 
