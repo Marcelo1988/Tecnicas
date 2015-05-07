@@ -1,3 +1,7 @@
+ARCHIVO MODIFICADO RECIENTEMENTE POR LUIS ALEJANDRO BORJA
+EN TECNICAS DE ANALISIS DE DISEÑO DE SISTEMAS INFORMATICOS
+:D
+
 <?php
 echo " hoy es" . date("l"). ".";
 ?>
@@ -14,6 +18,7 @@ document.write("hoy es" + Date());
  </head>
  <body>  
 <BODY BGCOLOR="blue">
+<h1>Archivo editado por Jessica Arciniega</h1>
 <H1 align="center"><FONT color="black">Escuela Politecnica Nacional</FONT> </H1><p align="center"> <font size=6 >Marcelo Prado </font> <br/> 
  <A HREF="http://es.wikipedia.org/wiki/Escuela_Polit%C3%A9cnica_Nacional" target="destino"><FONT color="black"><FONT color="white">Mostrar Informacion E.P.N</FONT></A><br/> <br/> 
 <hr>
