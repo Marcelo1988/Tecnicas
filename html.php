@@ -16,7 +16,8 @@ document.write("hoy es" + Date());
 <head>
 <title> Hola Mundo </title>
  </head>
- <body>  
+ <body>
+ <h1>ESTO ES UN CAMBIO</h1>
 <BODY BGCOLOR="blue">
 <h1>Archivo editado por Jessica Arciniega</h1>
 <H1 align="center"><FONT color="black">Escuela Politecnica Nacional</FONT> </H1><p align="center"> <font size=6 >Marcelo Prado </font> <br/> 
@@ -24,7 +25,6 @@ document.write("hoy es" + Date());
 <hr>
 <p>
 Yo modifique el archivo:Pato jaja
-Yaaa
 </p>
 <Center><img src="http://2.bp.blogspot.com/-XR_5r-FHUkA/UO3FG3pFr6I/AAAAAAAAFcg/OHUmLV75MQw/s1600/escuela-politecnica-nacional.png" width="200" height="200" BORDER="0"></Center><br /><br />
 </body>
