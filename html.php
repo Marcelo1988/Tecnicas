@@ -14,6 +14,7 @@ document.write("hoy es" + Date());
  </head>
  <body>  
 <BODY BGCOLOR="blue">
+<h1>Archivo editado por Jessica Arciniega</h1>
 <H1 align="center"><FONT color="black">Escuela Politecnica Nacional</FONT> </H1><p align="center"> <font size=6 >Marcelo Prado </font> <br/> 
  <A HREF="http://es.wikipedia.org/wiki/Escuela_Polit%C3%A9cnica_Nacional" target="destino"><FONT color="black"><FONT color="white">Mostrar Informacion E.P.N</FONT></A><br/> <br/> 
 <Center><img src="http://2.bp.blogspot.com/-XR_5r-FHUkA/UO3FG3pFr6I/AAAAAAAAFcg/OHUmLV75MQw/s1600/escuela-politecnica-nacional.png" width="200" height="200" BORDER="0"></Center><br /><br />
