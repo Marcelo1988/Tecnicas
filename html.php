@@ -25,7 +25,6 @@ document.write("hoy es" + Date());
 <hr>
 <p>
 Yo modifique el archivo:Pato jaja
-Yaaa
 </p>
 <Center><img src="http://2.bp.blogspot.com/-XR_5r-FHUkA/UO3FG3pFr6I/AAAAAAAAFcg/OHUmLV75MQw/s1600/escuela-politecnica-nacional.png" width="200" height="200" BORDER="0"></Center><br /><br />
 </body>
